@@ -1,4 +1,14 @@
 # Addis-Legesse-Adere
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExand6am51ZGdqbHlxbDF1NDRqYmFjdG5rcndvbmN1MHppb2RiOHNhdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u1WhXLjwgcXpHJBMRM/giphy.gif" width="600" height="300" />
+</p>
+<p align="center">
+  <a href="href="https://linkedin.com/in/addis-legesse-261589333"">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:addisyizu@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 <h1 align="center">Hi, I'm Addis Legesse 👋</h1>
 
 <h3 align="center">
@@ -14,7 +24,8 @@
 - 🎓 Pursuing a **2nd degree in Business Management** — bridging tech & business
 - 🌱 Currently learning: Node.js, Python, and ML fundamentals
 - 🎯 Goal: Build products that combine software, AI, and business thinking
-- 📫 Reach me: **your-email@gmail.com**
+- Interested in applying machine learning to real-world financial problems
+- 📫 Reach me: **addisyizu@gmail.com**
 
 <br/>
 
@@ -63,12 +74,7 @@
 <br/>
 ## 🤝 Connect with me
 
-<p align="left">
-  <a href="href="https://linkedin.com/in/addis-legesse-261589333"">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:addisyizu@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+
   </a>
 </p>
 
