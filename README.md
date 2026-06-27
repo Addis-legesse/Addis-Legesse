@@ -62,24 +62,11 @@
 
 <br/>
 
-## 🚀 Featured Projects
 
-| Project | Description | Tech |
-|---|---|---|
-| 🏛️ Hall Management System | Desktop app to manage hall bookings | JavaFX |
-| 💊 Drug Inventory System | Track and manage pharmacy stock | Java |
-| 🎨 React Color Picker | Interactive color tool | React, JS |
 
 <br/>
 
-## 🧠 Currently Learning
 
-```
-Frontend  ████████████░░░░  75%
-Backend   ████░░░░░░░░░░░░  25%
-AI / ML   ████████░░░░░░░░  50%  ← halfway there!
-Business  ████████░░░░░░░░  50%  ← 2nd degree in progress
-```
 
 <br/>
 
