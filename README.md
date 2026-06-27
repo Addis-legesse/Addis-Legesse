@@ -12,14 +12,14 @@
 
 <br/>
 
-- 💻 Frontend developer building real-world web apps with React, HTML & CSS
-- 🚀 On a journey to become a **Full-Stack Developer**
-- 🤖 Halfway through my **Artificial Intelligence & Machine Learning** journey
-- 🎓 Pursuing a **2nd degree in Business Management** — bridging tech & business
-- 🌱 Currently learning: Node.js, Python, and ML fundamentals
-- 🎯 Goal: Build products that combine software, AI, and business thinking
+-  Frontend developer building real-world web apps with React, HTML & CSS
+-  On a journey to become a **Full-Stack Developer**
+-  Halfway through my **Artificial Intelligence & Machine Learning** journey
+-  Pursuing a **2nd degree in Business Management** — bridging tech & business
+-  Currently learning: Node.js, Python, and ML fundamentals
+- Goal: Build products that combine software, AI, and business thinking
 - Interested in applying machine learning to real-world financial problems
-- 📫 Reach me: **addisyizu@gmail.com**
+-  Reach me: **addisyizu@gmail.com**
 
 <br/>
 
